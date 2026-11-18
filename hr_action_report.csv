@@ -1,0 +1,16 @@
+EmployeeNumber,Department,JobRole,Risk %,Main risk drivers,Best action,Risk after action %
+411,Sales,Sales Representative,75.4,"YearsWithCurrManager, MonthlyIncome, Age",Add stock options (+1 level),70.2
+2021,Sales,Sales Representative,70.8,"OverTime_No, Age, MonthlyIncome",Eliminate overtime,39.9
+1198,Research & Development,Laboratory Technician,64.9,"SatisfactionScore, Age, StockOptionLevel",Add stock options (+1 level),47.9
+1056,Sales,Sales Representative,63.7,"YearsWithCurrManager, MonthlyIncome, Age",Add stock options (+1 level),49.2
+201,Research & Development,Laboratory Technician,61.7,"YearsWithCurrManager, MonthlyIncome, Age",Add stock options (+1 level),51.1
+1680,Sales,Sales Representative,58.2,"StockOptionLevel, SatisfactionScore, Age",Add stock options (+1 level),43.5
+1551,Research & Development,Laboratory Technician,57.2,"YearsWithCurrManager, Age, MonthlyIncome",Reduce commute / remote option,49.6
+434,Research & Development,Research Scientist,55.8,"OverTime_No, StockOptionLevel, SatisfactionScore",Eliminate overtime,8.6
+144,Research & Development,Laboratory Technician,54.6,"YearsWithCurrManager, Age, TotalWorkingYears",Add stock options (+1 level),43.7
+1974,Research & Development,Laboratory Technician,53.4,"MonthlyIncome, OverTime_No, YearsWithCurrManager",Eliminate overtime,27.6
+643,Research & Development,Laboratory Technician,52.8,"YearsWithCurrManager, MonthlyIncome, TotalWorkingYears",Reduce commute / remote option,44.3
+424,Human Resources,Human Resources,52.1,"YearsWithCurrManager, SatisfactionScore, StockOptionLevel",Add stock options (+1 level),30.2
+934,Research & Development,Laboratory Technician,52.0,"YearsWithCurrManager, MonthlyIncome, SatisfactionScore",Reduce commute / remote option,43.1
+1646,Research & Development,Research Scientist,51.9,"OverTime_No, BusinessTravel_Travel_Frequently, Age",Eliminate overtime,9.7
+939,Research & Development,Research Scientist,51.5,"OverTime_No, StockOptionLevel, SatisfactionScore",Eliminate overtime,11.9
